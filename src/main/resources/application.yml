@@ -1,0 +1,12 @@
+## Server properties
+server:
+  port: 8080
+
+## Source Database Properties
+customer:
+  datasource:
+    host: localhost
+    port: 3305
+    database: customerdb
+    username: root
+    password: root
